@@ -18,11 +18,13 @@ To get started with the project, follow these steps:
    cd currency-converter
 
 2. Install the dependencies
-      ```npm install
+      ```
+      npm install
       npm install axios
 
 3. Start the development server
-      npm run dev
+    ```    
+    npm run dev
 
 
 ## Usage
