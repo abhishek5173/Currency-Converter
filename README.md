@@ -8,6 +8,24 @@ A simple currency converter application built with React and Vite. This app fetc
 - Converts amounts between different currencies.
 - Simple and minimalist user interface.
 
+## Prerequisites
+
+- Node.js and npm (https://nodejs.org/)
+- Git (https://git-scm.com/)
+
+## Installation
+
+### Install Git
+
+If you do not have Git installed, follow the instructions below:
+
+#### Windows
+
+1. Download the Git installer from [Git for Windows](https://git-scm.com/download/win).
+2. Run the installer and follow the installation instructions.
+3. Verify the installation by running `git --version` in Command Prompt or PowerShell.
+
+
 ## Installation
 
 To get started with the project, follow these steps:
