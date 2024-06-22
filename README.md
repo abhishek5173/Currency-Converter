@@ -14,7 +14,7 @@ To get started with the project, follow these steps:
 
 1. Clone the repository:
     ```bash
-   git clone https://github.com/yourusername/currency-converter.git
+   git clone https://github.com/abhishek5173/currency-converter.git
    cd currency-converter
 
 2. Install the dependencies
